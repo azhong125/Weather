@@ -11,8 +11,8 @@
 		_FScale("Fresnel Scale", Float) = 1.0
 		_FPower("Fresnel Power", Float) = 1.0
 
-		_WaveHeight("Wave Height", Range(0,1)) = 0.0
-		_WaveSpeed("Wave Speed", Range(0,1)) = 0.5
+		_WaveHeight("Wave Height", Range(0,250)) = 1.0
+		_WaveSpeed("Wave Speed", Range(0,50)) = 1.0
 
 
 			_DepthColor("Depth Color Blend", Color) = (1,1,1,1)

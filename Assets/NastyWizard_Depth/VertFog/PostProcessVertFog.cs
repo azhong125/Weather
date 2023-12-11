@@ -4,7 +4,7 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class PostProcessVertFog : MonoBehaviour {
 
-
+    /*
     [Range(0.00001f, 1.0f)] public float scale = 0.0f;
     public float height = 0.0f;
 
@@ -43,5 +43,5 @@ public class PostProcessVertFog : MonoBehaviour {
         mat.SetFloat("_ZFrequency", waveZFreq);
 
         Graphics.Blit(source, destination, mat);
-    }
+    }*/
 }
