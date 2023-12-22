@@ -37,7 +37,7 @@ Material:
     - _FlowSpeed: 0
     - _NormalScale: 0
     - _WaveHeight: 0.11
-    - _WaveSpeed: 16.3
+    - _WaveSpeed: 26.3
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DepthColor: {r: 0.33790532, g: 0.31372553, b: 0.65882355, a: 1}
